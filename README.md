@@ -15,13 +15,17 @@
   <table>
     <tr>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/kubernetes.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/helm.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/argocd.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/docker.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/podman.png" width="80"></td>
     </tr>
     <tr>
       <td>Kubernetes</td>
+      <td>Helm</td>
       <td>ArgoCD</td>
       <td>Docker</td>
+      <td>Podman</td>
     </tr>
   </table>
 </div>
@@ -34,11 +38,15 @@
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/saltstack.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/ansible.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/stackstorm.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/terraform.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/pulumi.png" width="80"></td>
     </tr>
     <tr>
       <td>SaltStack</td>
       <td>Ansible</td>
-      <td>Stackstorm</td>
+      <td>StackStorm</td>
+      <td>Terraform</td>
+      <td>Pulumi</td>
     </tr>
   </table>
 </div>
@@ -84,12 +92,18 @@
     <tr>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/elk.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/prometheus.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/victoriametrics.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/grafana.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/cilium.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/tetragon.png" width="80"></td>
     </tr>
     <tr>
-      <td>Elastic stack</td>
+      <td>ELK Stack</td>
       <td>Prometheus</td>
+      <td>VictoriaMetrics</td>
       <td>Grafana</td>
+      <td>Cilium</td>
+      <td>Tetragon</td>
     </tr>
   </table>
 </div>
@@ -139,10 +153,12 @@
     <tr>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/mariadb.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/mysql.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/postgresql.png" width="80"></td>
     </tr>
     <tr>
       <td>MariaDB</td>
       <td>MySQL</td>
+      <td>PostgreSQL</td>
     </tr>
   </table>
 </div>
@@ -173,12 +189,14 @@
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/gcp.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/aws.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/ovh.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/scaleway.png" width="80"></td>
     </tr>
     <tr>
       <td>Azure</td>
       <td>GCP</td>
       <td>AWS</td>
       <td>OVH</td>
+      <td>Scaleway</td>
     </tr>
   </table>
 </div>
@@ -190,12 +208,16 @@
     <tr>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/netbox.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/powerdns.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/openssl.png" width="80"></td>
       <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/vault.png" width="80"></td>
+      <td><img src="https://github.com/khaddict/khaddict/blob/main/icons/nexus.png" width="80"></td>
     </tr>
     <tr>
       <td>NetBox</td>
       <td>PowerDNS</td>
+      <td>OpenSSL</td>
       <td>Vault</td>
+      <td>Nexus OSS</td>
     </tr>
   </table>
 </div>
