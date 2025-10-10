@@ -1,13 +1,19 @@
-# 😶‍🌫️ About Me :
-🦗 Hi, I'm Khaddict<br>
-👨🏻‍💻 I’m currently working as a Site Reliability Engineer (SRE)<br>
-🔫 In my free time, I enjoy video games (Kha'Zix otp & Reyna odin main), sport shooting, working on tech projects...
+<!-- About Me -->
+<div>
+  <img src="https://raw.githubusercontent.com/khaddict/homelab_cloud/main/apps/homepage/images/khazix_pc.png" align="left" width="200">
+  <p><br>Hi, I’m Khaddict, a Site Reliability Engineer who loves exploring and experimenting with technology. I enjoy my work and tinkering in my homelab, where I can build and test whatever I want.<br>Gamer at heart, I’m a one-trick Kha’Zix in League of Legends and a Reyna Odin main in Valorant. I also enjoy sport shooting, spending time with friends, and traveling.<br>This GitHub profile is where I keep my homelab setups and the small projects I build along the way<br clear="left">
+  </p>
+</div>
 
-## 🌐 Socials :
+
+
+<!-- Socials -->
+## 🌐 Socials
 ![](https://badgen.net/badge/Discord/khaddict/purple?icon=discord)<br>
 ![](https://badgen.net/badge/Reddit/khadddict/orange?icon=reddit)
 
-## 💻 Tech Stack :
+<!-- Tech Stack -->
+## 💻 Tech Stack
 
 <!-- Containerization & Orchestration -->
 <div class="category-table">
